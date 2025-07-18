@@ -1,6 +1,6 @@
 ### setup
 
-To use this app, sign up at [TMDb](https://www.themoviedb.org/) and create a free API key.
+To use this app, sign up at [TMDb](https://www.themoviedb.org/) and get an api key.
 
 Create a file called `.env` in the root folder and add:
 
