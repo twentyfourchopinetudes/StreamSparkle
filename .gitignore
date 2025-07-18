@@ -1,0 +1,13 @@
+venv/
+env/
+
+__pycache__/
+*.py[cod]
+
+#dotenv secret stuff
+.env
+
+.DS_Store
+
+.vscode/
+.idea/
