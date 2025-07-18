@@ -1,4 +1,6 @@
-### setup
+Project tends to suggest popular shows and movies. Plans to implement machine learning and large language model prompting into the project and build a more robust recommendation system
+
+-Setup
 
 To use this app, sign up at [TMDb](https://www.themoviedb.org/) and get an api key.
 
